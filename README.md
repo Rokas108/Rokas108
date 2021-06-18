@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rokas108
 - 👀 I’m interested in Artificial Intelligence, machine learning and deep learning.
 - 🌱 I’m currently learning basic and advanced deep learning.
-- 💞️ I’m looking to collaborate on everything related to Artificial Intelligence and related Kaggle competitions.
+- 💞️ I’m looking to collaborate on everything to do with Artificial Intelligence and related Kaggle competitions.
 - 📫 How to reach me: hotep303@gmail.com
 
 <!---
